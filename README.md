@@ -9,7 +9,10 @@ Concepts learned while developing this application.
 3. Android.
 4. Recycler View.
 
-SCREENSHOTS:
+SCREENSHOT - 1:
 
 <img src="https://github.com/Sakshamwane/News-App---Android-Project/blob/master/Screenshot%20homepage.jpeg"/>
+
+SCREENSHOT - 2:
+
 <img src="https://github.com/Sakshamwane/News-App---Android-Project/blob/master/screenshot%20article.jpeg"/>
