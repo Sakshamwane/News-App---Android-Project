@@ -5,3 +5,5 @@ Concepts learned while developing this application.
 1. Languages: Java, kotlin, XML.
 2. RestAPI.
 3. Android.
+4. Recycler View.
+
