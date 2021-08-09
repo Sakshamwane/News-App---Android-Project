@@ -4,4 +4,4 @@ The news data is fetched using an API called NewsAPI.org.
 Concepts learned while developing this application.
 1. Languages: Java, kotlin, XML.
 2. RestAPI.
-3. Aandroid.
+3. Android.
