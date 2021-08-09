@@ -8,4 +8,3 @@ Concepts learned while developing this application.
 2. RestAPI.
 3. Android.
 4. Recycler View.
-
