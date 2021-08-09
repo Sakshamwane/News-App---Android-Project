@@ -8,3 +8,7 @@ Concepts learned while developing this application.
 2. RestAPI.
 3. Android.
 4. Recycler View.
+
+SCREENSHOTS:
+<img src="https://github.com/Sakshamwane/News-App---Android-Project/blob/master/Screenshot%20homepage.jpeg"/>
+<img scr="https://github.com/Sakshamwane/News-App---Android-Project/blob/master/screenshot%20article.jpeg"/>
