@@ -11,5 +11,5 @@ Concepts learned while developing this application.
 
 SCREENSHOTS:
 
-![homepage] (https://github.com/Sakshamwane/News-App---Android-Project/blob/master/Screenshot%20homepage.jpeg)
-![article] (https://github.com/Sakshamwane/News-App---Android-Project/blob/master/screenshot%20article.jpeg)
+<img src="https://github.com/Sakshamwane/News-App---Android-Project/blob/master/Screenshot%20homepage.jpeg"/>
+<img src="https://github.com/Sakshamwane/News-App---Android-Project/blob/master/screenshot%20article.jpeg"/>
